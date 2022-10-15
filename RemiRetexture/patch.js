@@ -6,7 +6,7 @@
 	],
 	"id": "Wasted";
 	"servers": [
-		"https://srv.thpatch.net/"
+		"https://raw.githubusercontent.com/Wasted-github/touhou_patches/main/RemiRetexture"
 	],
 	"title": "Touhou 11 Remilia Retexture patch",
 	"update": true
