@@ -8,6 +8,6 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Wasted/RemiRetexture/"
 	],
-	"title": "Touhou 11 Remilia Retexture patch",
+	"title": "(th11) Remilia Retexture patch",
 	"update": true
 }
