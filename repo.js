@@ -2,7 +2,7 @@
 	"contact": "Wasted#8565",
 	"id": "Wasted",
 	"patches": {
-		"RemiRetexture": "A retexture mod that replace Marisa with Remilia in Touhou 11"
+		"RemiRetexture": "(th11) A retexture mod that replace Marisa with Remilia"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/Wasted/"
