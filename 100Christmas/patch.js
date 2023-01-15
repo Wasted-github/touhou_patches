@@ -8,6 +8,6 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Wasted/100Christmas/"
 	],
-	"title": "(th18) 100Christmas mod",
+	"title": "(th185) 100Christmas mod",
 	"update": true
 }
