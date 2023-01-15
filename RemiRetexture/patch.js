@@ -8,6 +8,6 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Wasted/RemiRetexture/"
 	],
-	"title": "(th11) Remilia Retexture patch",
+	"title": "(th11) A retexture mod that replace Marisa with Remilia",
 	"update": true
 }
